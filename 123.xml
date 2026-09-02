@@ -6,208 +6,6 @@
   <categories>
    <category id="147">Алкоголь</category>
    <category id="149" parentId="147">Вермути</category>
-   <category id="150" parentId="147">Вино</category>
-   <category id="151" parentId="147">Ігристі вина і шампанське</category>
-   <category id="152" parentId="147">Міцний алкоголь</category>
-   <category id="155" parentId="152">Віскі</category>
-   <category id="156" parentId="152">Горілка</category>
-   <category id="157" parentId="152">Джин</category>
-   <category id="158" parentId="152">Коньяк та бренді</category>
-   <category id="159" parentId="152">Лікери</category>
-   <category id="160" parentId="152">Настоянки та біттери</category>
-   <category id="161" parentId="152">Ром</category>
-   <category id="163" parentId="152">Текіла</category>
-   <category id="167" parentId="147">Пиво</category>
-   <category id="168" parentId="147">Сидри</category>
-   <category id="169">Бакалія</category>
-   <category id="172" parentId="276">Пасти</category>
-   <category id="186" parentId="169">Крупи</category>
-   <category id="187" parentId="186">Бобові крупи</category>
-   <category id="188" parentId="186">Вівсяна крупа</category>
-   <category id="189" parentId="186">Гречка</category>
-   <category id="190" parentId="169">Суперфуди</category>
-   <category id="191" parentId="186">Кукурудзяна крупа</category>
-   <category id="192" parentId="186">Манна крупа</category>
-   <category id="193" parentId="186">Крупа пшенична</category>
-   <category id="194" parentId="186">Пшоно</category>
-   <category id="195" parentId="186">Рис</category>
-   <category id="196" parentId="186">Ячна та перлова крупа</category>
-   <category id="197" parentId="169">Макаронні вироби</category>
-   <category id="198" parentId="169">Рослинна олія</category>
-   <category id="203">Чай, кава, гарячі напої</category>
-   <category id="204" parentId="203">Гарячий шоколад</category>
-   <category id="205" parentId="203">Кава</category>
-   <category id="207" parentId="203">Какао</category>
-   <category id="209" parentId="203">Чай</category>
-   <category id="210" parentId="169">Продукти для випічки</category>
-   <category id="211" parentId="210">Борошно</category>
-   <category id="212" parentId="210">Дріжджі</category>
-   <category id="213" parentId="210">Желе, пудинги, кисіль</category>
-   <category id="214" parentId="210">Кокосова стружка</category>
-   <category id="215" parentId="210">Креми та глазурі</category>
-   <category id="216" parentId="210">Мак</category>
-   <category id="217" parentId="210">Панірування</category>
-   <category id="218" parentId="210">Присипки та прикраси</category>
-   <category id="220" parentId="169">Продукти для суші</category>
-   <category id="223" parentId="221">Попкорн</category>
-   <category id="224" parentId="221">Смажене насіння</category>
-   <category id="225" parentId="221">Кукурудзяні снеки</category>
-     <category id="232" parentId="231">Гірчиця</category>
-   <category id="233" parentId="231">Кетчупи</category>
-   <category id="234" parentId="231">Майонези</category>
-   <category id="235" parentId="169">Оцет</category>
-   <category id="236" parentId="231">Томатна паста</category>
-   <category id="237" parentId="231">Соєві соуси</category>
-   <category id="238" parentId="231">Спеціальні соуси</category>
-   <category id="239" parentId="231">Хрін</category>
-   <category id="240" parentId="169">Їжа швидкого приготування</category>
-   <category id="241" parentId="240">Бульйони та супи</category>
-   <category id="242" parentId="240">Вермішель швидкого приготування</category>
-   <category id="243" parentId="240">Каші швидкого приготування</category>
-   <category id="246" parentId="240">Пюре швидкого приготування</category>
-   <category id="247" parentId="240">Сухі сніданки</category>
-   <category id="248" parentId="210">Інгредієнти та добавки для випічки</category>
-   <category id="255">Вода, соки, напої</category>
-   <category id="256" parentId="255">Мінеральна вода</category>
-   <category id="257" parentId="255">Енергетичні напої</category>
-   <category id="258" parentId="255">Квас</category>
-   <category id="259" parentId="345">Рослинне молоко</category>
-   <category id="260" parentId="255">Соки та нектари</category>
-   <category id="261" parentId="255">Солодка вода</category>
-   <category id="262">Заморожені продукти</category>
-   <category id="269" parentId="262">Заморожена піца</category>
-   <category id="131" parentId="262">Тісто заморожене</category>
-   <category id="273" parentId="262">Заморожені ягоди</category>
-   <category id="274" parentId="262">Заморожені напівфабрикати</category>
-   <category id="275" parentId="262">Морозиво</category>
-   <category id="276">Кондитерські вироби та солодощі</category>
-   <category id="277" parentId="276">Батончики</category>
-   <category id="278" parentId="276">Десерти</category>
-   <category id="280" parentId="276">Жувальні гумки</category>
-   <category id="281" parentId="276">Зефір</category>
-   <category id="282" parentId="276">Мармелад</category>
-   <category id="284" parentId="276">Східні солодощі</category>
-   <category id="285" parentId="276">Цукерки</category>
-   <category id="286" parentId="276">Шоколад</category>
-   <category id="287">Гігієна та догляд</category>
-   <category id="288" parentId="287">Догляд за волоссям</category>
-   <category id="289" parentId="288">Аксесуари для волосся</category>
-   <category id="290" parentId="288">Бальзами для волосся</category>
-   <category id="293" parentId="288">Кондиціонери для волосся</category>
-   <category id="294" parentId="288">Маски для волосся</category>
-   <category id="297" parentId="288">Шампуні</category>
-   <category id="298" parentId="287">Догляд за ротовою порожниною</category>
-   <category id="299" parentId="298">Зубні пасти</category>
-   <category id="300" parentId="298">Зубні щітки</category>
-   <category id="301" parentId="298">Зубні нитки та зубочистки</category>
-<category id="309" parentId="227320">Маски для обличчя</category>
-   <category id="310" parentId="304">Мило</category>
-   <category id="311" parentId="304">Набори для догляду за тілом</category>
-   <category id="312" parentId="304">Скраби і пілінги для тіла</category>
-   <category id="329" parentId="287">Засоби для гоління</category>
-   <category id="330" parentId="329">Косметика для гоління</category>
-   <category id="331" parentId="329">Косметика після гоління</category>
-   <category id="332" parentId="329">Змінні касети для гоління</category>
-   <category id="333" parentId="329">Набори для гоління</category>
-   <category id="336">М'ясо та напівфабрикати</category>
-   <category id="337" parentId="113728">Ковбаси</category>
-   <category id="339" parentId="336">М'ясні напівфабрикати</category>
-   <category id="340" parentId="113728">М'ясні делікатеси</category>
-   <category id="341" parentId="113728">Сосиски та сардельки</category>
-   <category id="342" parentId="336">Маринований шашлик</category>
-   <category id="343" parentId="345">Яйця</category>
-   <category id="345">Молочні продукти та яйця</category>
-   <category id="346" parentId="345">Вершки</category>
-   <category id="347" parentId="345">Молочні десерти</category>
-   <category id="348" parentId="345">Згущене молоко</category>
-   <category id="349" parentId="345">Йогурти</category>
-   <category id="350" parentId="345">Кисломолочні напої</category>
-   <category id="351" parentId="350">Закваски та сироватки</category>
-   <category id="352" parentId="350">Кефір</category>
-   <category id="353" parentId="350">Айран</category>
-   <category id="354" parentId="350">Ряжанка</category>
-   <category id="356" parentId="345">Вершкове масло</category>
-   <category id="357" parentId="345">Молоко</category>
-   <category id="358">Сири</category>
-   <category id="365" parentId="345">Сирки глазуровані</category>
-   <category id="366" parentId="345">Сметана</category>
-   <category id="368" url="https://magento-uat.varus.ua/riba-219">Риба та морепродукти</category>
-   <category id="369" url="https://magento-uat.varus.ua/ikra-ribi" parentId="368">Ікра</category>
-   <category id="370" url="https://magento-uat.varus.ua/krabovi-palochki" parentId="368">Крабові палички</category>
-   <category id="381" url="https://magento-uat.varus.ua/pasti-z-moreproduktiv" parentId="368">Пасти з риби та ікри</category>
-   <category id="382" url="https://magento-uat.varus.ua/riba-ta-moreprodukti" parentId="368">Копчена та в'ялена риба</category>
-   <category id="383" url="https://magento-uat.varus.ua/riba-zhiva" parentId="368">Жива риба</category>
-   <category id="384" url="https://magento-uat.varus.ua/riba-zamorozhena" parentId="368">Заморожена риба</category>
-   <category id="385" url="https://magento-uat.varus.ua/riba-kopchena-vyalina-solena" parentId="368">Слабосолена риба</category>
-   <category id="386" url="https://magento-uat.varus.ua/riba-oholodzhena" parentId="368">Охолоджена риба</category>
-   <category id="387" url="https://magento-uat.varus.ua/ribni-napivfabrikati" parentId="368">Рибний фарш та напівфабрикати</category>
-   <category id="388">Товари для дітей</category>
-   <category id="389" parentId="388">Годування дитини</category>
-   <category id="390" parentId="389">Пляшечки</category>
-   <category id="391" parentId="389">Посуд для дітей</category>
-   <category id="392" parentId="389">Соски та пустишки</category>
-   <category id="393" parentId="388">Дитяче харчування</category>
-   <category id="394" parentId="393">Дитяча каша</category>
-   <category id="395" parentId="393">Дитяче пюре</category>
-   <category id="396" parentId="393">Молочні суміші</category>
-   <category id="397" parentId="388">Засоби догляду за дитиною</category>
-   <category id="398" parentId="388">Іграшки</category>
-   <category id="399" parentId="388">Підгузки</category>
-   <category id="400" parentId="388">Шкільні товари</category>
-   <category id="401" parentId="400">Альбоми для малювання</category>
-   <category id="402" parentId="400">Зошити</category>
-   <category id="403" parentId="400">Пенали</category>
-   <category id="404" parentId="400">Шкільні рюкзаки</category>
-   <category id="405" parentId="400">Щоденники</category>
-   <category id="406">Товари для дому</category>
-   <category id="420" parentId="406">Господарські товари</category>
-   <category id="423" parentId="420">Губки та ганчірки</category>
-   <category id="424" parentId="420">Клей</category>
-   <category id="425" parentId="420">Мітли, віники та совки</category>
-   <category id="426" parentId="420">Пакети для сміття</category>
-   <category id="427" parentId="406">Сумки та пакети</category>
-   <category id="428" parentId="420">Рукавиці господарчі</category>
-   <category id="429" parentId="420">Свічки</category>
-   <category id="430" parentId="420">Товари для прання та сушки</category>
-   <category id="432" parentId="420">Швабри</category>
-   <category id="433" parentId="420">Щітки</category>
-   <category id="434" parentId="492">Догляд за взуттям</category>
-   <category id="435" parentId="434">Аксесуари для взуття</category>
-   <category id="436" parentId="434">Губки та щітки для взуття</category>
-   <category id="437" parentId="434">Дезодоранти для взуття</category>
-   <category id="439" parentId="434">Креми для взуття</category>
-   <category id="440" parentId="406">Електротовари та освітлення</category>
-   <category id="441" parentId="440">Батарейки</category>
-   <category id="447" parentId="406">Стартові пакети та картки</category>
-   <category id="448" parentId="406">Канцтовари</category>
-   <category id="471" parentId="406">Одяг, взуття та аксесуари</category>
-   <category id="472" parentId="471">Аксесуари</category>
-   <category id="474" parentId="471">Взуття</category>
-   <category id="476" parentId="471">Головні убори</category>
-   <category id="479" parentId="471">Колготи жіночі</category>
-   <category id="484" parentId="471">Шкарпетки</category>
-   <category id="486" parentId="406">Друкована продукція</category>
-   <category id="487" parentId="486">Журнали та преса</category>
-   <category id="488" parentId="486">Книги</category>
-   <category id="492">Побутова хімія</category>
-   <category id="494" parentId="492">Засоби для миття посуду</category>
-   <category id="497" parentId="495">Капсули для прання</category>
-   <category id="499" parentId="492">Господарське мило</category>
-   <category id="500" parentId="495">Плямовивідники та відбілювачі</category>
-   <category id="501" parentId="495">Порошки для прання</category>
-   <category id="502" parentId="495">Гелі для прання</category>
-   <category id="505" parentId="492">Освіжувачі повітря</category>
-   <category id="506" parentId="406">Посуд</category>
-   <category id="507" parentId="506">Багаторазовий посуд</category>
-   <category id="519" parentId="506">Чашки</category>
-   <category id="523" parentId="506">Одноразовий посуд</category>
-   <category id="528" parentId="406">Сад та город</category>
-   <category id="534" parentId="406">Спорт та розваги</category>
-   <category id="539" parentId="406">Сувеніри та декор</category>
-   <category id="560" parentId="406">Товари для кухні</category>
-   <category id="561" parentId="560">Ємності та упаковка для продуктів</category>
-   <category id="562" parentId="560">Засоби для приготування продуктів</category>
-   <category id="563" parentId="560">Кухонне приладдя</category>
    </categories>
     <offers>
    <offer>
@@ -220,7 +18,7 @@
     <image_url>https://magento-uat.varus.ua/img/product/420/420/2517825</image_url>
     <stock>out of stock</stock>
     <brand>Gala</brand>
-    <categoryId>494</categoryId>
+    <categoryId>147</categoryId>
     <shops>
      <shop id="1001" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
      <shop id="1033" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
@@ -256,7 +54,7 @@
     <image_url>https://magento-uat.varus.ua/img/product/420/420/2517896</image_url>
     <stock>in stock</stock>
     <brand>L'oreal Paris</brand>
-    <categoryId>366</categoryId>
+    <categoryId>149</categoryId>
     <shops>
      <shop id="1001" qty="4" qty_original="4" in_stock="true" price="492.9" sort_price="492.9"/>
      <shop id="1058" qty="30" qty_original="30" in_stock="true" price="492.9" sort_price="492.9"/>
