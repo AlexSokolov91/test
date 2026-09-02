@@ -6,6 +6,7 @@
   <categories>
    <category>Алкоголь</category>
    <category parentId="147">Вермути</category>
+   <category id="150" parentId="147">Пиво</category>
    </categories>
     <offers>
    <offer>
