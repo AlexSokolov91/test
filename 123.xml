@@ -5,7 +5,7 @@
   <url>https://magento-uat.varus.ua/</url>
   <categories>
    <category id="147">Алкоголь</category>
-   <category id="149" parentId="147">Вермути</category>
+   <category parentId="147">Вермути</category>
    </categories>
     <offers>
    <offer>
