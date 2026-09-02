@@ -74,6 +74,42 @@
      </param>
     </params>
    </offer>
+		 <offer>
+    <product_id>3</product_id>
+    <sku>2517827</sku>
+    <product_name>Засіб для миття посуду Gala Паризький аромат, 500 мл</product_name>
+    <product_name_ru>Средство для мытья посуды Gala Парижский аромат, 500 мл</product_name_ru>
+    <link>https://magento-uat.varus.ua/ridina-d-mit-pos-parizk-arom-gala-500g</link>
+    <link_ru>https://varus.ua/ru/ridina-d-mit-pos-parizk-arom-gala-500g</link_ru>
+    <image_url>https://magento-uat.varus.ua/img/product/420/420/2517825</image_url>
+    <stock>out of stock</stock>
+    <brand>Gala</brand>
+    <categoryId>150</categoryId>
+    <shops>
+     <shop id="1001" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+     <shop id="1033" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+     <shop id="1035" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+     <shop id="1036" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+     <shop id="1038" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+     <shop id="1041" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+     <shop id="1043" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+     <shop id="1049" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+     <shop id="1052" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+     <shop id="1053" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+     <shop id="1057" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+     <shop id="1058" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+     <shop id="1059" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+     <shop id="1060" qty="0" qty_original="0" in_stock="false" price="0" sort_price="0"/>
+     </shops>
+     <available>true</available>
+    <params>
+     <param name="picture_attributes">
+      <tag_online_only>false</tag_online_only>
+      <tag_cashback_icon>false</tag_cashback_icon>
+      <tag_winter_icon>false</tag_winter_icon>
+     </param>
+    </params>
+   </offer>
 </offers>
 </shop>
 </yml_catalog>
